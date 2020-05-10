@@ -1,0 +1,22 @@
+.head{
+	position: relative;
+	float: right;
+	margin-left: 100%;
+	margin-bottom: 1%;
+	text-align: center;
+	color: #191970;
+	font-family: "Snell Roundhand", cursive;
+	font-weight: bold;
+	width:40%;
+	padding: 1%;
+	border:2px solid black;
+}
+.first {
+	background-color: #2E8B57;
+}
+.second{
+	background-color: #DC143C;
+}
+.third{
+	background-color: #BA55D3;
+}

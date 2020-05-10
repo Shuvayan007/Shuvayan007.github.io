@@ -1,0 +1,22 @@
+.box {
+	background-color: #7B68EE;
+	margin: 1.65%;
+	outline: 2px solid black;
+	outline-offset: -2px;
+	float: left;
+}
+.content {
+	font-family: "Brush Script MT"," Brush Script Std", cursive;
+	color: solid gray;
+	text-align: left;
+	padding: 2%;
+}
+.cont-1{
+	background-color: #F0E68C;
+}
+.cont-2{
+	background-color: #FFA500;
+}
+.cont-3{
+	background-color: #00BFFF;
+}
