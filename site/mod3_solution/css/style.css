@@ -1,0 +1,49 @@
+#header-nav{
+	background-color: gray;
+}
+#nav-list{
+	background-color: #DA70D6;
+	border: 1px solid black;
+	text-align: center;
+	color: black;
+}
+/*Nav-list item color*/
+a {
+	color: black;
+}
+#nav-item-1, #nav-item-2{
+	border-bottom: 1px solid black;
+}
+.navbar button.navbar-toggler {
+	border: 1px solid black;
+}
+#navbarNav {
+	box-sizing: content-box;
+	column-width: 100%;
+}
+#main-heading{
+	margin: 20px;
+	color: #DC143C;
+}
+#main-content{
+	border: 2px solid #800000;
+	background-color: #7FFFD4;
+	margin-bottom: 10px;
+}
+#content-heading {
+	margin: 10px;
+	color: #800000;
+}
+#sample-text {
+	color: #800080;
+}
+body {
+	background-color: #FFA500;
+}
+
+/*Media query for XS screen size*/
+@media (max-width: 576px){
+	#main-content {
+	width: 90%;
+	}
+}
